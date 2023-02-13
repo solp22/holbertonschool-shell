@@ -1,0 +1,2 @@
+#!/bin/bash
+cat abc | head -3 | tail -1
