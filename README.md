@@ -8,5 +8,5 @@
 </ul>
 <h2>Projects</h2>
 
-[Basics](holbertonschool-shell/basics/)
+[Basics](solp22/holbertonschool-shell/basics/)
 
