@@ -6,4 +6,6 @@
 <li>Regular Expression</li>
 <li>Networking basics</li>
 </ul>
+<h2>Projects</h2>
+[Basics](holbertsonschool-shell/basics)
 
