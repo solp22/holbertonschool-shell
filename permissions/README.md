@@ -65,11 +65,11 @@ Write a script that adds execution permission to the owner, the group owner and 
 
 ### 8. James Bond
 Write a script that sets the permission to the file hello as follows:
-
-Owner: no permission at all
-Group: no permission at all
-Other users: all the permissions
-
+<ul>
+  <li>Owner: no permission at all</li>
+  <li>Group: no permission at all</li>
+  <li>Other users: all the permissions</li>
+</ul>
 You are not allowed to use commas for this script.
 
 ### 9. John Doe
