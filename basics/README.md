@@ -1,5 +1,23 @@
 <h1 align="center">Project: Shell, Basics</h1>
 
+## Resources
+<ul>
+ <li>cd</li>
+ <li>ls</li>
+ <li>pwd</li>
+ <li>less</li>
+ <li>file</li>
+ <li>ln</li>
+ <li>cp</li>
+ <li>mv</li>
+ <li>rm</li>
+ <li>mkdir</li>
+ <li>type</li>
+ <li>which</li>
+ <li>help</li>
+ <li>man</li>
+</ul>
+
 ## Learning Objectives
 
 ### Shell
